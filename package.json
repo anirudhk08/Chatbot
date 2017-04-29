@@ -1,0 +1,19 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "A sample facebook/bot application to chat with user. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anirudhk08/chatbot.git"
+  },
+  "author": "Anirudh Kothapalli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anirudhk08/chatbot/issues"
+  },
+  "homepage": "https://github.com/anirudhk08/chatbot#readme"
+}
