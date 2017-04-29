@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/anirudhk08/chatbot/issues"
   },
-  "homepage": "https://github.com/anirudhk08/chatbot#readme"
+  "homepage": "https://github.com/anirudhk08/chatbot#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
 }
